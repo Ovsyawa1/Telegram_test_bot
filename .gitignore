@@ -1,0 +1,8 @@
+.env
+config.ini
+.venv
+__pycache__
+.state-save
+.handler-saves
+test.py
+test.txt
